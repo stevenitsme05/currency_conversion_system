@@ -1,0 +1,25 @@
+# currency_conversion_system1
+Core Java Project
+
+
+Currency Conversion System
+Created by: Steven B. Gragg
+Tools: Core Java and Visual Studio Code
+
+Main program: MainCCSObis.java
+
+System Credentials:
+username:welcome
+password:12345
+
+Admin Credentials:
+username:admin
+password:12345
+
+
+Note: 
+-If log in as an admin, please set the exchange rates of every currency first 
+before going to do converter function of the system.
+-Max transaction is 50.
+
+For exchange rates go to: https://www.xe.com/currencyconverter/convert/?Amount=1&From=PHP&To=USD
